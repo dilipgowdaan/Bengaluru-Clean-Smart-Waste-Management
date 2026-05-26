@@ -78,6 +78,7 @@ BengaluruClean/
 │   │   ├── LoginPage.jpg
 │   │   ├── Profile.jpg
 │   │   ├── Schedule Pickup.jpg
+│   │   ├── WorkerDashboard.jpg
 │   │   └── Tracking.jpg
 │
 ├── App.js
@@ -138,10 +139,10 @@ BengaluruClean/
 
 ---
 
-## 🚚 Real-time Tracking
+## 🚚 Worker Dashboard
 
 <p align="center">
-  <img src="assets/screenshots/Tracking.jpg" width="250"/>
+  <img src="assets/screenshots/WorkerDashboard.jpg" width="250"/>
 </p>
 
 ---
@@ -158,6 +159,14 @@ BengaluruClean/
 
 <p align="center">
   <img src="assets/screenshots/AssignDriver.jpg" width="250"/>
+</p>
+
+---
+
+## 🚚 Real-time Tracking
+
+<p align="center">
+  <img src="assets/screenshots/Tracking.jpg" width="250"/>
 </p>
 
 ---
