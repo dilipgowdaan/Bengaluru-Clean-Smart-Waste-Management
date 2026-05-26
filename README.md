@@ -1,8 +1,5 @@
 # ♻️ Bengaluru Clean
 
-<p align="center">
-  <img src="assets/icon.png" width="120" alt="Bengaluru Clean Logo"/>
-</p>
 
 <p align="center">
   A smart waste management and real-time tracking mobile application built using React Native and Firebase.
