@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "SmartWasteNative",
+    "slug": "smart-waste-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.smartwaste.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.smartwaste.app",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyA_DbOXRctoc8tVrMCt6au87g7F4XB8XKU"
+        }
+      },
+      "permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow SmartWaste to use your location."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "937f4054-0bf4-4bb1-9e8f-805e25287a63"
+      }
+    }
+  }
+}
