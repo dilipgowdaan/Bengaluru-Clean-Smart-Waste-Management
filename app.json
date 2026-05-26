@@ -23,7 +23,7 @@
       "package": "com.smartwaste.app",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyA_DbOXRctoc8tVrMCt6au87g7F4XB8XKU"
+          "apiKey": "API_KEY"
         }
       },
       "permissions": [
