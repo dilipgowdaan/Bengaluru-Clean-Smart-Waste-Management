@@ -176,7 +176,7 @@ BengaluruClean/
 ## Clone Repository
 
 ~~~bash
-git clone [your-repository-link]
+git clone https://github.com/dilipgowdaan/Bengaluru-Clean-Smart-Waste-Management
 ~~~
 
 ---
