@@ -27,7 +27,7 @@ import {
 
 // --- CONFIGURATION ---
 const firebaseConfig = {
-  apiKey: "AIzaSyBAbx1UhCKyuegb9k3eSm_LH2vKuQKRt2c",
+  apiKey: "API_KEY",
   authDomain: "smartwaste1.firebaseapp.com",
   projectId: "smartwaste1",
   storageBucket: "smartwaste1.firebasestorage.app",
