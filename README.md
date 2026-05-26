@@ -1,9 +1,9 @@
 # ♻️ Bengaluru Clean
 
 
-<p align="left">
+<h align="left">
   A smart waste management and real-time tracking mobile application built using React Native and Firebase.
-</p>
+</h>
 
 ---
 
